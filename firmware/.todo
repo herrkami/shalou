@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<todo version="0.1.20">
+    <note priority="high" time="1581097624">
+        Weard bug after start-up. Display freezes with some random dots. Reset must be carried out.
+    </note>
+    <note priority="medium" time="1581066145">
+        Add pomodoro mode.
+    </note>
+    <note priority="medium" time="1581066171">
+        Repair second digit wrapping.
+    </note>
+    <note priority="medium" time="1581066425">
+        Wake up from charge connector being connected.
+    </note>
+    <note priority="medium" time="1581066445">
+        Stay awake if charging.
+    </note>
+    <note priority="medium" time="1581066510">
+        Waking up from button event event sometimes starts the timer.
+    </note>
+    <note priority="medium" time="1581168600">
+        Show negative time during alarm.
+    </note>
+    <note priority="low" time="1581066640">
+        Add pause/play.
+    </note>
+    <note priority="low" time="1581066713">
+        Change breath LED fading mode when entering countdown.
+    </note>
+</todo>
